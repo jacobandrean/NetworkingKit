@@ -1,0 +1,3 @@
+[submodule "NetworkKit"]
+	path = NetworkKit
+	url = git@github.com:jacobandrean/NetworkKit.git
